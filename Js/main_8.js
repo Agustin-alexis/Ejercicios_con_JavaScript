@@ -1,15 +1,2 @@
-document.getElementById("").innerHTML = "" 
 
-document.getElementById("").innerHTML = ""
-
-document.getElementById("").innerHTML = ""
-
-document.getElementById("").innerHTML = ""
-
-document.getElementById("").innerHTML = "" 
-
-document.getElementById("").innerHTML = ""
-
-document.getElementById("").innerHTML = ""
-
-document.getElementById("").innerHTML = ""
+document.getElementById("parrafo").style.fontSize = "30px" 

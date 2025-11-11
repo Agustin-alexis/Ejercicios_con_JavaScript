@@ -29,26 +29,9 @@ main{
     padding: 10px;
 }
 
-article{
-    background-color:gold ;
-    margin: 5px;
-    border-radius: 10px;
-    padding: 10px;
-}
-
 h2{
     background-color: white;
     border-radius: 10px;
     padding: 5px;
-}
-
-p{
-    background-color: antiquewhite;
-    border-radius: 10px;
-    padding: 5px;
-    transition: background-color 0.3s ease;
-}
-
-p:hover{
-    background-color: aqua;
+    text-align: center;
 }

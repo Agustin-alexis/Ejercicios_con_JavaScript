@@ -1,15 +1,1 @@
-document.getElementById("").innerHTML = "" 
-
-document.getElementById("").innerHTML = ""
-
-document.getElementById("").innerHTML = ""
-
-document.getElementById("").innerHTML = ""
-
-document.getElementById("").innerHTML = "" 
-
-document.getElementById("").innerHTML = ""
-
-document.getElementById("").innerHTML = ""
-
-document.getElementById("").innerHTML = ""
+document.getElementById("lista").style.color = "Green" 

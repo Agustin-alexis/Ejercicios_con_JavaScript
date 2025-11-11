@@ -1,15 +1,7 @@
-document.getElementById("").innerHTML = "" 
+let num1 = 10;
 
-document.getElementById("").innerHTML = ""
+let num2 = 5;
 
-document.getElementById("").innerHTML = ""
+let resultado = num1 * num2;
 
-document.getElementById("").innerHTML = ""
-
-document.getElementById("").innerHTML = "" 
-
-document.getElementById("").innerHTML = ""
-
-document.getElementById("").innerHTML = ""
-
-document.getElementById("").innerHTML = ""
+alert("El resultado es: " + resultado)
