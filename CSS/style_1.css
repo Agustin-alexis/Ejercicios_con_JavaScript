@@ -1,0 +1,57 @@
+header{
+    background-color: yellowgreen;
+    text-align: center;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+
+nav{
+    background-color: #00ffff;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a{
+    background-color:mediumslateblue;
+    border-radius: 10px;
+    padding: 10px;
+    color: black;
+}
+
+main{
+    background-color: blue;
+    margin: 5px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+article{
+    background-color: aqua;
+    margin: 5px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+h2{
+    background-color: red;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+}
+
+h3{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+p{
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
